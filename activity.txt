@@ -25,3 +25,4 @@ Improve data processing on 2024-09-20
 Update metrics logic on 2024-10-01
 Improve data processing on 2024-10-01
 Update metrics logic on 2024-10-01
+Adjust thresholds for alerts on 2024-10-09
